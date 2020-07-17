@@ -1,4 +1,4 @@
-                    Aplicação Be The Hero. Back-end, Frontend interface web e mobile com tecnologias JavaScript
+                    Semana Omnistack
 O Back - end é a base da aplicação. É a estrutura de organização, regras de negocios, armazenamento de informacao,  da sua aplicação. Funcionando como um servidor que serve ao possível cliente, usuário; uma base completa para o consomo da aplicação.
 Este cliente, faz interacoes com o servidor e a aplicação acontece. 
 
